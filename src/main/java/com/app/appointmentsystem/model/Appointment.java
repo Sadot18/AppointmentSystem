@@ -24,7 +24,7 @@ public class Appointment {
     private Status status; // PENDING, CONFIRMED, CANCELLED
 
     @ManyToOne
-    private User user;
+    private AppUsers appUsers;
 
     @ManyToOne
     private Service service;
