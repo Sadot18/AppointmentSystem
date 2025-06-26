@@ -13,7 +13,7 @@
     </Appenders>
 
     <Loggers>
-        <!-- Nivel de log para tu paquete -->
+        <!-- Nivel de log para paquete -->
         <Logger name="com.app.appointmentsystem" level="DEBUG" additivity="false">
             <AppenderRef ref="Console"/>
             <AppenderRef ref="File"/>
