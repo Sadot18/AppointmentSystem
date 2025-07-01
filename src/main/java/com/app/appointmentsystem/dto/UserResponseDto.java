@@ -1,4 +1,11 @@
 package com.app.appointmentsystem.dto;
 
-public record UserResponseDto() {
+import com.app.appointmentsystem.model.Role;
+
+public record UserResponseDto(
+        Long id,
+        String email,
+        String name,
+        Role role
+) {
 }

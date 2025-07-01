@@ -1,8 +1,8 @@
 package com.app.appointmentsystem.repository;
 
-import com.app.appointmentsystem.model.Service;
+import com.app.appointmentsystem.model.MedicalService;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface ServiceRepository extends JpaRepository<Service, Long> {
+public interface MedicalServiceRepository extends JpaRepository<MedicalService, Long> {
 
 }

@@ -1,6 +1,6 @@
 package com.app.appointmentsystem.dto;
 
-public record LoginRequest(
+public record LoginRequestDto(
         String email,
         String password
 ) {}

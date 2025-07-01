@@ -27,5 +27,5 @@ public class Appointment {
     private AppUsers appUsers;
 
     @ManyToOne
-    private Service service;
+    private MedicalService medicalService;
 }

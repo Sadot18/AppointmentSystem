@@ -7,4 +7,6 @@ import java.util.List;
 
 public interface AppointmentRepository extends JpaRepository<Appointment, Long> {
     List<Appointment> findByAppUsersId(Long userId); // Busca por el ID del AppUsers relacionado
+
+    List<Appointment> findByAppUsersEmail(String email);
 }

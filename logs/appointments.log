@@ -70,3 +70,55 @@
 2025-06-26 01:29:43.674 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
 2025-06-26 01:29:43.676 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
 2025-06-26 01:29:53.610 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 11.023 seconds (process running for 12.724)
+2025-06-30 00:59:57.158 [Test worker] INFO  com.app.appointmentsystem.AppointmentsystemApplicationTests - Starting AppointmentsystemApplicationTests using Java 17.0.13 with PID 14392 (started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 00:59:57.174 [Test worker] DEBUG com.app.appointmentsystem.AppointmentsystemApplicationTests - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 00:59:57.178 [Test worker] INFO  com.app.appointmentsystem.AppointmentsystemApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:00:08.924 [Test worker] INFO  com.app.appointmentsystem.AppointmentsystemApplicationTests - Started AppointmentsystemApplicationTests in 12.51 seconds (process running for 16.119)
+2025-06-30 01:02:11.684 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 21440 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:02:11.696 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:02:11.700 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:02:20.947 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 10.493 seconds (process running for 13.343)
+2025-06-30 01:08:23.622 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 3304 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:08:23.638 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:08:23.640 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:08:33.049 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 10.235 seconds (process running for 12.948)
+2025-06-30 01:30:14.334 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 13156 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:30:14.346 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:30:14.347 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:30:24.595 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 11.322 seconds (process running for 15.427)
+2025-06-30 01:30:58.397 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 20560 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:30:58.409 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:30:58.411 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:31:06.908 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 9.3 seconds (process running for 11.051)
+2025-06-30 01:43:42.913 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 1504 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:43:42.927 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:43:42.929 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:43:51.809 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 9.655 seconds (process running for 13.714)
+2025-06-30 01:44:11.573 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 13300 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 01:44:11.608 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 01:44:11.619 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 01:44:30.597 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 21.144 seconds (process running for 23.435)
+2025-06-30 02:05:44.993 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 15156 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 02:05:45.005 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 02:05:45.007 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 02:05:54.405 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 10.462 seconds (process running for 13.676)
+2025-06-30 13:02:36.954 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 9372 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 13:02:36.970 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 13:02:36.973 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 13:02:48.299 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 12.18 seconds (process running for 15.825)
+2025-06-30 13:08:38.200 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 15032 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 13:08:38.233 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 13:08:38.236 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 13:08:52.705 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 15.698 seconds (process running for 20.584)
+2025-06-30 23:32:19.958 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 22500 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 23:32:19.976 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 23:32:19.978 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 23:32:33.059 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 14.07 seconds (process running for 16.307)
+2025-06-30 23:33:13.166 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 22280 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-06-30 23:33:13.180 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-30 23:33:13.183 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-30 23:33:26.154 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 13.749 seconds (process running for 15.701)
+2025-07-01 00:06:26.497 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Starting AppointmentsystemApplication using Java 17.0.13 with PID 2944 (C:\Users\HP\Desktop\appointmentsystem\build\classes\java\main started by HP in C:\Users\HP\Desktop\appointmentsystem)
+2025-07-01 00:06:26.510 [main] DEBUG com.app.appointmentsystem.AppointmentsystemApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-07-01 00:06:26.512 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-07-01 00:06:34.348 [main] INFO  com.app.appointmentsystem.AppointmentsystemApplication - Started AppointmentsystemApplication in 8.579 seconds (process running for 11.862)

@@ -1,9 +1,9 @@
 package com.app.appointmentsystem.service;
 
 import com.app.appointmentsystem.config.JwtUtil;
-import com.app.appointmentsystem.dto.LoginRequest;
-import com.app.appointmentsystem.dto.LoginResponse;
-import com.app.appointmentsystem.dto.SignupRequest;
+import com.app.appointmentsystem.dto.LoginRequestDto;
+import com.app.appointmentsystem.dto.LoginResponseDto;
+import com.app.appointmentsystem.dto.SignupRequestDto;
 import com.app.appointmentsystem.model.Role;
 import com.app.appointmentsystem.model.AppUsers;
 import com.app.appointmentsystem.repository.UserRepository;
@@ -32,7 +32,7 @@ public class AuthService {
         this.jwtUtil = jwtUtil;
     }
 
-    public void registerUser(SignupRequest request) {
+    public void registerUser(SignupRequestDto request) {
         if (userRepository.existsByEmail(request.email())) {
             throw new RuntimeException("El email ya está registrado");
         }
@@ -45,14 +45,17 @@ public class AuthService {
         userRepository.save(appUsers);
     }
 
-    public LoginResponse authenticate(LoginRequest request) {
+    public LoginResponseDto authenticate(LoginRequestDto request) {
         // Autenticar usuario
         authenticationManager.authenticate(
                 new UsernamePasswordAuthenticationToken(request.email(), request.password())
         );
 
+        AppUsers user = userRepository.findByEmail(request.email())
+                .orElseThrow(() -> new RuntimeException("Usuario no encontrado"));
+
         // Generar token JWT
         String token = jwtUtil.generateToken(request.email());
-        return new LoginResponse(token);
+        return new LoginResponseDto(token, user.getEmail(), user.getRole());
     }
 }
